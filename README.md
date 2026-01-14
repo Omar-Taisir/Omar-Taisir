@@ -16,7 +16,9 @@ and hands-on penetration testing labs.
 
 
 ## Training
-- OSCP-aligned Training (Self-studied – Hands-on Labs)
+- OSCP-aligned Training (Self-studied – Hands-on Labs) now learning
+- OSWE-aligned Training (Self-studied – Hands-on Labs) now learning
+- OSEP-aligned Training (Self-studied – Hands-on Labs) now learning
 - eWPT / eWPTx (Training)
 - TryHackMe Paths (Jr Pen Tester, Red Teaming, Web)
 - Hack The Box Academy (AD & Pentesting Modules)
